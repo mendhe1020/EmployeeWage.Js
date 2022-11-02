@@ -1,0 +1,2 @@
+# EmployeeWage.Js
+Employee Wage 
